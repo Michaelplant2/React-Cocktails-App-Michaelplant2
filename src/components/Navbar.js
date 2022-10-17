@@ -5,15 +5,15 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="nav-center">
-        <Link to="/">
+        <Link className="title" to="/">
           Reactive Cocktails
         </Link>
         <ul className="nav-links">
           <li>
-            <Link to="/">Home</Link>
+            <Link className="link" to="/">Home</Link>
           </li>
           <li>
-            <Link to="/about">About</Link>
+            <Link className="link" to="/about">About</Link>
           </li>
         </ul>
       </div>
