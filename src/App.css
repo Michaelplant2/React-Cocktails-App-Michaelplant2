@@ -85,3 +85,10 @@ main {
 .img-drink {
    max-width: 100%;
 }
+
+.drink-data {
+   margin-left: 10px;
+   font-size: 18px;
+   font-family: sans-serif;
+   color: rgb(166, 141, 0);
+}
