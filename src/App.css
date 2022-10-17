@@ -72,7 +72,7 @@ main {
    font-size: 25px;
    font-weight: 700;
    font-family: sans-serif;
-   color: rgb(166, 141, 0);
+   color: rgb(133, 113, 0);;
 }
 
 .cocktails-center {
@@ -90,5 +90,5 @@ main {
    margin-left: 10px;
    font-size: 18px;
    font-family: sans-serif;
-   color: rgb(166, 141, 0);
+   color: rgb(133, 113, 0);;
 }
