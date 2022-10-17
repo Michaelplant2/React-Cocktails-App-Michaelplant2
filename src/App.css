@@ -68,8 +68,20 @@ main {
 }
 
 .section-title {
-   font-size: 30px;
+   margin-left: 50px;
+   font-size: 25px;
    font-weight: 700;
    font-family: sans-serif;
    color: rgb(166, 141, 0);
+}
+
+.cocktails-center {
+   display: grid;
+   justify-content: center;
+   grid-template-columns: repeat(auto-fill, 200px);
+   gap: 10px;
+}
+
+.img-drink {
+   max-width: 100%;
 }
