@@ -66,3 +66,10 @@ main {
    font-family: sans-serif;
    color: rgb(133, 113, 0);
 }
+
+.section-title {
+   font-size: 30px;
+   font-weight: 700;
+   font-family: sans-serif;
+   color: rgb(166, 141, 0);
+}

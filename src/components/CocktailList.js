@@ -6,7 +6,7 @@ const CocktailList = () => {
   const {cocktails} = useGlobalContext ();
   return (
     <section className="section">
-      <h2 className="section-title">cocktails</h2>
+      <h2 className="section-title">Cocktails</h2>
       <div className="cocktails-center">
         {cocktails.map((item) => {
           return <Cocktail key={item.id} {...item} />;
