@@ -79,11 +79,25 @@ main {
    display: grid;
    justify-content: center;
    grid-template-columns: repeat(auto-fill, 200px);
-   gap: 10px;
+   gap: 20px;
+}
+
+.cocktail {
+   background-color: black;
+   color: rgb(166, 141, 0);
 }
 
 .img-drink {
    max-width: 100%;
+}
+
+.cocktail-footer {
+   padding: 0 0 5px 5px;
+}
+
+.btn {
+   color: rgb(166, 141, 0);
+   text-decoration: underline;
 }
 
 .drink-data {
