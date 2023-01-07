@@ -55,7 +55,7 @@
 
 <img src="client/public/project-5.png" />
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme">back to top</a>)</p>
 
 
 
@@ -95,7 +95,7 @@ This is an example of how to list things you need to use the software and how to
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme">back to top</a>)</p>
 
 
 <!-- CONTRIBUTING -->
@@ -120,7 +120,7 @@ Michael Plantamura - MEPlantamura@gmail.com
 
 Project Link: [https://github.com/Michaelplant2/React-Cocktails-App-Michaelplant2](https://github.com/Michaelplant2/React-Cocktails-App-Michaelplant2)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
