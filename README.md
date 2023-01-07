@@ -15,7 +15,7 @@
 
 
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Reactive Cocktails</h3>
 
   <p align="center">
     project_description
@@ -66,7 +66,7 @@
 
 <img src="public/project-5.png">
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Michaelplant2`, `React-Cocktails-App-Michaelplant2`, `michael-plantamura-458347223/`, `gmail`, `MEPlantamura`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Michaelplant2`, `React-Cocktails-App-Michaelplant2`, `michael-plantamura-458347223/`, `gmail`, `MEPlantamura`, `Reactive Cocktails`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
