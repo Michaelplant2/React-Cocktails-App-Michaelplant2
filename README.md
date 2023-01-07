@@ -11,7 +11,6 @@
 <h3 align="center">Reactive Cocktails</h3>
 
   <p align="center">
-    
     <br />
     <a href="https://github.com/Michaelplant2/React-Cocktails-App-Michaelplant2"><strong>Explore the docs »</strong></a>
     <br />
