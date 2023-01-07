@@ -11,6 +11,7 @@
 <h3 align="center">Reactive Cocktails</h3>
 
   <p align="center">
+    Mixed drink API database that is responsive and mobile friendly. Search up a drink you'd like and learn the ingredients to make it.
     <br />
     <a href="https://github.com/Michaelplant2/React-Cocktails-App-Michaelplant2"><strong>Explore the docs »</strong></a>
     <br />
