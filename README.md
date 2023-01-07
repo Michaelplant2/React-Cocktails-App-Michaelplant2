@@ -15,13 +15,6 @@
 
 
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/Michaelplant2/React-Cocktails-App-Michaelplant2">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
 <h3 align="center">project_title</h3>
 
   <p align="center">
@@ -30,7 +23,7 @@
     <a href="https://github.com/Michaelplant2/React-Cocktails-App-Michaelplant2"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Michaelplant2/React-Cocktails-App-Michaelplant2">View Demo</a>
+    <a href="https://reactive-cocktails.netlify.app">View Demo</a>
     ·
     <a href="https://github.com/Michaelplant2/React-Cocktails-App-Michaelplant2/issues">Report Bug</a>
     ·
@@ -71,7 +64,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="public/project-5.png">
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Michaelplant2`, `React-Cocktails-App-Michaelplant2`, `michael-plantamura-458347223/`, `gmail`, `MEPlantamura`, `project_title`, `project_description`
 
