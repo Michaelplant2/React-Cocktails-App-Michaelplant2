@@ -64,7 +64,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="public/project-5.png">
+<img src="client/public/project-5.png" />
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Michaelplant2`, `React-Cocktails-App-Michaelplant2`, `michael-plantamura-458347223/`, `gmail`, `MEPlantamura`, `Reactive Cocktails`, `project_description`
 
@@ -76,9 +76,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -127,8 +124,6 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
