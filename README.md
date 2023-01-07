@@ -73,7 +73,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Michaelplant2`, `React-Cocktails-App-Michaelplant2`, `twitter_handle`, `michael-plantamura-458347223/`, `gmail`, `MEPlantamura`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Michaelplant2`, `React-Cocktails-App-Michaelplant2`, `michael-plantamura-458347223/`, `gmail`, `MEPlantamura`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -183,7 +183,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - MEPlantamura@gmail.com
+Michael Plantamura - MEPlantamura@gmail.com
 
 Project Link: [https://github.com/Michaelplant2/React-Cocktails-App-Michaelplant2](https://github.com/Michaelplant2/React-Cocktails-App-Michaelplant2)
 
