@@ -22,7 +22,6 @@
     ·
     <a href="https://github.com/Michaelplant2/React-Cocktails-App-Michaelplant2/issues">Request Feature</a>
   </p>
-</div>
 
 
 
