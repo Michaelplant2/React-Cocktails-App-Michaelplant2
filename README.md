@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="client/public/project-5.png" />
+<img align="center" src="client/public/project-5.png" />
 
 <p align="right">(<a href="#readme">back to top</a>)</p>
 
